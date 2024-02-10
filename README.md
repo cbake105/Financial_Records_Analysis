@@ -1,5 +1,6 @@
 # Python Challenge
-![How-to-Learn-Python](https://github.com/cbake105/Python-Challenge/assets/133677209/6b49438f-616f-4f6c-86b7-3bf9f76f2522)
+![getty_494497554_171901 (1)](https://github.com/cbake105/Financial_Records_Analysis/assets/133677209/546075c8-cd3a-422f-8604-9ed87cc6a909)
+
 
 ## PyBank Instructions
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
